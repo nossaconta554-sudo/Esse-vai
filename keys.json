@@ -19,6 +19,12 @@
       "expires": "2d",
       "first_use": null,
       "active": false
+    },
+    "TESTEv2": {
+      "duration": "3s",
+      "perm": false,
+      "active": true,
+      "first_use": null
     }
   }
 }
