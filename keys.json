@@ -7,12 +7,6 @@
       "perm": false,
       "duration": "12M"
     },
-    "testev7": {
-      "active": true,
-      "first_use": 1763968580126,
-      "perm": false,
-      "duration": "5s"
-    },
     "sparkingffz-2025": {
       "active": true,
       "owner": "DONO SPARK",
