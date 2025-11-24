@@ -8,7 +8,7 @@
       "duration": "12M"
     },
     "teste": {
-      "active": true,
+      "active": false,
       "first_use": 1763968148538,
       "perm": false,
       "duration": "5s"
