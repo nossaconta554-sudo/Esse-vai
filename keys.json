@@ -1,12 +1,5 @@
 {
   "keys": {
-    "XABLAU-PERM-UY5IDGBFYN": {
-      "active": true,
-      "owner": "DONO XABLAU",
-      "first_use": null,
-      "perm": false,
-      "duration": "12M"
-    },
     "sparkingffz-2025": {
       "active": true,
       "owner": "DONO SPARK",
@@ -14,11 +7,12 @@
       "perm": false,
       "duration": "12M"
     },
-    "teste": {
+    "XABLAU-PERM-UY5IDGBFYN": {
       "active": true,
-      "first_use": 1763968148538,
+      "owner": "DONO XABLAU",
+      "first_use": null,
       "perm": false,
-      "duration": "3s"
+      "duration": "12M"
     }
   }
 }
