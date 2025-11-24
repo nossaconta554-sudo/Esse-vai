@@ -32,7 +32,7 @@
       "duration": "3s",
       "perm": false,
       "active": true,
-      "first_use": null,
+      "first_use": 1764013434662,
       "owner": "TEST"
     }
   }
