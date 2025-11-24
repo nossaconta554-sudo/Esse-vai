@@ -8,10 +8,10 @@
       "duration": "12M"
     },
     "teste": {
-      "duration": "5s",
-      "perm": false,
       "active": true,
-      "first_use": null
+      "first_use": 1763968016661,
+      "perm": false,
+      "duration": "5s"
     },
     "XABLAU-PERM-UY5IDGBFYN": {
       "active": true,
