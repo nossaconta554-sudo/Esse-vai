@@ -13,6 +13,13 @@
       "first_use": null,
       "perm": false,
       "duration": "12M"
+    },
+    "teste": {
+      "duration": "5s",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "re"
     }
   }
 }
