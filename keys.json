@@ -6,13 +6,6 @@
       "first_use": null,
       "perm": false,
       "duration": "12M"
-    },
-    "oi": {
-      "duration": "10s",
-      "perm": false,
-      "active": true,
-      "first_use": null,
-      "owner": "da"
     }
   }
 }
