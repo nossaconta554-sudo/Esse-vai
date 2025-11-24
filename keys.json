@@ -1,28 +1,19 @@
 {
   "keys": {
-    "VIP-123": {
-      "active": true,
-      "first_use": null,
-      "perm": true,
-      "duration": "0s"
-    },
     "AAAA-BBBB-CCCC": {
       "active": true,
-      "first_use": 1763958625061,
       "perm": false,
-      "duration": "6h"
+      "duration": "7d"
     },
     "TESTE-1": {
-      "active": false,
-      "first_use": null,
-      "perm": false,
-      "duration": "2d"
-    },
-    "DD-99": {
       "active": true,
-      "first_use": 1763958790887,
       "perm": false,
-      "duration": "5s"
+      "duration": "30m"
+    },
+    "VIP-123": {
+      "active": true,
+      "perm": true,
+      "duration": null
     }
   }
 }
