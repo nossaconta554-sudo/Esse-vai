@@ -1,12 +1,5 @@
 {
   "keys": {
-    "sparkingffz-2025": {
-      "active": true,
-      "owner": "DONO SPARK",
-      "first_use": 1763967751407,
-      "perm": false,
-      "duration": "12M"
-    },
     "XABLAU-1d-DW7NK4YC": {
       "active": true,
       "owner": "CLIENTE MOREIRA",
@@ -21,12 +14,26 @@
       "perm": false,
       "duration": "12M"
     },
+    "sparkingffz-2025": {
+      "active": true,
+      "owner": "DONO SPARK",
+      "first_use": 1763967751407,
+      "perm": false,
+      "duration": "12M"
+    },
     "XABLAU-7d-WQ5BD2YA": {
-      "duration": "7d",
+      "active": true,
+      "owner": "CLIENTE AYUMI ( SC )",
+      "first_use": null,
+      "perm": false,
+      "duration": "7d"
+    },
+    "TESTE": {
+      "duration": "3s",
       "perm": false,
       "active": true,
       "first_use": null,
-      "owner": "CLIENTE AYUMI ( SC )"
+      "owner": "TEST"
     }
   }
 }
