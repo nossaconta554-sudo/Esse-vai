@@ -7,13 +7,6 @@
       "perm": false,
       "duration": "1d"
     },
-    "XABLAU-PERM-UY5IDGBFYN": {
-      "active": true,
-      "owner": "DONO XABLAU",
-      "first_use": 1763991241690,
-      "perm": false,
-      "duration": "12M"
-    },
     "sparkingffz-2025": {
       "active": true,
       "owner": "DONO SPARK",
@@ -28,26 +21,12 @@
       "perm": false,
       "duration": "7d"
     },
-    "XABLAU-3s-57H2BODT": {
-      "duration": "3s",
-      "perm": false,
+    "XABLAU-PERM-UY5IDGBFYN": {
       "active": true,
-      "first_use": null,
-      "owner": "DEMANDA"
-    },
-    "XABLAU-3s-O5IJHV2X": {
-      "duration": "3s",
+      "owner": "DONO XABLAU",
+      "first_use": 1763991241690,
       "perm": false,
-      "active": true,
-      "first_use": null,
-      "owner": "DEMANDA"
-    },
-    "XABLAU-3s-3KSDFJ72": {
-      "duration": "3s",
-      "perm": false,
-      "active": true,
-      "first_use": null,
-      "owner": "DEMANDA"
+      "duration": "12M"
     }
   }
 }
