@@ -20,13 +20,6 @@
       "first_use": 1763967751407,
       "perm": false,
       "duration": "12M"
-    },
-    "oi": {
-      "active": true,
-      "owner": "test",
-      "first_use": 1764006088539,
-      "perm": false,
-      "duration": "3s"
     }
   }
 }
