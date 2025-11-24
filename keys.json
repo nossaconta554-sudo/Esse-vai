@@ -17,6 +17,12 @@
       "first_use": null,
       "perm": false,
       "duration": "2d"
+    },
+    "DD-99": {
+      "active": true,
+      "first_use": null,
+      "perm": false,
+      "duration": "5s"
     }
   }
 }
