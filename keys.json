@@ -1,7 +1,7 @@
 {
   "keys": {
     "sparkingffz-2025": {
-      "active": false,
+      "active": true,
       "owner": "DONO SPARK",
       "first_use": null,
       "perm": false,
