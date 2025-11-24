@@ -10,15 +10,15 @@
       "first_use": 1763961519139,
       "active": true
     },
+    "TESTEv1": {
+      "expires": "5s",
+      "first_use": 1763962130522,
+      "active": true
+    },
     "TESTE-1": {
       "expires": "2d",
       "first_use": null,
       "active": false
-    },
-    "TESTEv1": {
-      "expires": "5s",
-      "first_use": null,
-      "active": true
     }
   }
 }
