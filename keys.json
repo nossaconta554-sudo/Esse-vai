@@ -7,19 +7,19 @@
       "perm": false,
       "duration": "12M"
     },
+    "teste": {
+      "active": true,
+      "owner": "re",
+      "first_use": 1763967946407,
+      "perm": false,
+      "duration": "5s"
+    },
     "XABLAU-PERM-UY5IDGBFYN": {
       "active": true,
       "owner": "DONO XABLAU",
       "first_use": null,
       "perm": false,
       "duration": "12M"
-    },
-    "teste": {
-      "duration": "5s",
-      "perm": false,
-      "active": true,
-      "first_use": null,
-      "owner": "re"
     }
   }
 }
