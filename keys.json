@@ -16,7 +16,7 @@
       "active": true
     },
     "TESTEv2": {
-      "active": true,
+      "active": false,
       "first_use": 1763963394557,
       "perm": false,
       "duration": "3s"
