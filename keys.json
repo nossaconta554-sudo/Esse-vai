@@ -1,19 +1,19 @@
 {
   "keys": {
-    "AAAA-BBBB-CCCC": {
-      "expires": "6h",
-      "active": true,
-      "first_use": null
-    },
     "VIP-123": {
       "expires": "0s",
-      "active": true,
-      "first_use": null
+      "first_use": null,
+      "active": true
+    },
+    "AAAA-BBBB-CCCC": {
+      "expires": "6h",
+      "first_use": 1763961519139,
+      "active": true
     },
     "TESTE-1": {
       "expires": "2d",
-      "active": false,
-      "first_use": null
+      "first_use": null,
+      "active": false
     }
   }
 }
