@@ -1,0 +1,22 @@
+{
+  "keys": {
+    "KEY-USER-001": {
+      "first_use": null,
+      "duration": "30m",
+      "perm": "user",
+      "active": true
+    },
+    "KEY-VIP-777": {
+      "first_use": null,
+      "duration": "6h",
+      "perm": "vip",
+      "active": true
+    },
+    "KEY-EXPIRED-001": {
+      "first_use": 1690000000000,
+      "duration": "1h",
+      "perm": "user",
+      "active": false
+    }
+  }
+}
