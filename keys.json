@@ -15,16 +15,16 @@
       "first_use": 1763962130522,
       "active": true
     },
+    "TESTEv2": {
+      "active": true,
+      "first_use": 1763963394557,
+      "perm": false,
+      "duration": "3s"
+    },
     "TESTE-1": {
       "expires": "2d",
       "first_use": null,
       "active": false
-    },
-    "TESTEv2": {
-      "duration": "3s",
-      "perm": false,
-      "active": true,
-      "first_use": null
     }
   }
 }
