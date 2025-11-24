@@ -20,7 +20,7 @@
     },
     "DD-99": {
       "active": true,
-      "first_use": null,
+      "first_use": 1763958790887,
       "perm": false,
       "duration": "5s"
     }
