@@ -1,22 +1,22 @@
 {
   "keys": {
-    "AAAA-BBBB-CCCC": {
-      "duration": "6h",
-      "perm": false,
-      "active": true,
-      "first_use": null
-    },
     "VIP-123": {
-      "duration": "0s",
-      "perm": true,
       "active": true,
-      "first_use": null
+      "first_use": null,
+      "perm": true,
+      "duration": "0s"
+    },
+    "AAAA-BBBB-CCCC": {
+      "active": true,
+      "first_use": 1763958625061,
+      "perm": false,
+      "duration": "6h"
     },
     "TESTE-1": {
-      "duration": "2d",
-      "perm": false,
       "active": false,
-      "first_use": null
+      "first_use": null,
+      "perm": false,
+      "duration": "2d"
     }
   }
 }
