@@ -28,12 +28,12 @@
       "perm": false,
       "duration": "7d"
     },
-    "XABLAU-PERM-UY5IDGBFYN": {
+    "XABLAU-1d-LJK2I865": {
       "active": true,
-      "owner": "DONO XABLAU",
-      "first_use": 1763991241690,
+      "owner": "grátis",
+      "first_use": 1764114068463,
       "perm": false,
-      "duration": "12M"
+      "duration": "1d"
     },
     "sparkingffz-2025": {
       "active": true,
@@ -49,12 +49,12 @@
       "perm": false,
       "duration": "7d"
     },
-    "XABLAU-1d-LJK2I865": {
+    "XABLAU-7d-HFV3KI7O": {
       "active": true,
-      "owner": "grátis",
-      "first_use": 1764114068463,
+      "owner": "CLIENTE 66YX ( ST )",
+      "first_use": null,
       "perm": false,
-      "duration": "1d"
+      "duration": "7d"
     },
     "XABLAU-7d-WQ5BD2YA": {
       "active": true,
@@ -70,12 +70,19 @@
       "perm": false,
       "duration": "7d"
     },
-    "XABLAU-7d-HFV3KI7O": {
+    "XABLAU-PERM-UY5IDGBFYN": {
       "active": true,
-      "owner": "CLIENTE 66YX ( ST )",
-      "first_use": null,
+      "owner": "DONO XABLAU",
+      "first_use": 1763991241690,
       "perm": false,
-      "duration": "7d"
+      "duration": "12M"
+    },
+    "heads-89125#-key": {
+      "duration": "10d",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "Kayky"
     }
   }
 }
