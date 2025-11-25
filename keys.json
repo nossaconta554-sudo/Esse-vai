@@ -1,11 +1,11 @@
 {
   "keys": {
-    "XABLAU-7d-HFV3KI7O": {
+    "XABLAU-PERM-UY5IDGBFYN": {
       "active": true,
-      "owner": "CLIENTE 66YX ( ST )",
-      "first_use": null,
+      "owner": "DONO XABLAU",
+      "first_use": 1763991241690,
       "perm": false,
-      "duration": "7d"
+      "duration": "12M"
     },
     "XABLAU-1d-DW7NK4YC": {
       "active": true,
@@ -28,13 +28,6 @@
       "perm": false,
       "duration": "7d"
     },
-    "XABLAU-MONKEY": {
-      "active": true,
-      "owner": "test",
-      "first_use": 1764098821155,
-      "perm": false,
-      "duration": "3s"
-    },
     "apela-gostoso-666": {
       "active": false,
       "owner": "hatred gay",
@@ -42,12 +35,12 @@
       "perm": false,
       "duration": "7d"
     },
-    "XABLAU-PERM-UY5IDGBFYN": {
+    "XABLAU-7d-HFV3KI7O": {
       "active": true,
-      "owner": "DONO XABLAU",
-      "first_use": 1763991241690,
+      "owner": "CLIENTE 66YX ( ST )",
+      "first_use": null,
       "perm": false,
-      "duration": "12M"
+      "duration": "7d"
     }
   }
 }
