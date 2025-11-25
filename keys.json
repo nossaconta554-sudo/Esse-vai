@@ -28,6 +28,13 @@
       "perm": false,
       "duration": "12M"
     },
+    "XABLAU-MONKEY": {
+      "active": true,
+      "owner": "test",
+      "first_use": 1764098821155,
+      "perm": false,
+      "duration": "3s"
+    },
     "XABLAU-7d-HFV3KI7O": {
       "active": true,
       "owner": "CLIENTE 66YX ( ST )",
@@ -35,12 +42,12 @@
       "perm": false,
       "duration": "7d"
     },
-    "XABLAU-MONKEY": {
-      "duration": "3s",
+    "apela-gostoso-666": {
+      "duration": "7d",
       "perm": false,
       "active": true,
-      "first_use": 1764098821155,
-      "owner": "test"
+      "first_use": null,
+      "owner": "hatred gay"
     }
   }
 }
