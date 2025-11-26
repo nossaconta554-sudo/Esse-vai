@@ -28,6 +28,13 @@
       "perm": false,
       "duration": "7d"
     },
+    "XABLAU-7d-QHR3J2JS": {
+      "active": true,
+      "owner": "gay",
+      "first_use": null,
+      "perm": false,
+      "duration": "7d"
+    },
     "XABLAU-7d-WJ85OXUN": {
       "active": true,
       "owner": "LUCAS SILVA ( ? )",
@@ -64,12 +71,12 @@
       "duration": "7d"
     },
     "sparkingffz-2025-CLONE-G92SKZC7": {
-      "perm": false,
+      "duration": "12M",
       "active": true,
       "owner": "DONO SPARK",
       "first_use": 1763967751407,
-      "device_limit": 1,
-      "duration": "12M"
+      "perm": false,
+      "device_limit": 1
     },
     "XABLAU-7d-WQ5BD2YA": {
       "active": true,
@@ -106,12 +113,12 @@
       "perm": false,
       "duration": "7d"
     },
-    "XABLAU-7d-QHR3J2JS": {
-      "duration": "7d",
+    "hjsg-##23213-key": {
+      "duration": "1d",
       "perm": false,
       "active": true,
       "first_use": null,
-      "owner": "gay"
+      "owner": "bnzin"
     }
   }
 }
