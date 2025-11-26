@@ -111,6 +111,13 @@
       "first_use": 1764189781608,
       "perm": false,
       "duration": "1d"
+    },
+    "XABLAU-10d-36KHUTKG": {
+      "duration": "10d",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "viado"
     }
   }
 }
