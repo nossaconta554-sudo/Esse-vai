@@ -28,6 +28,13 @@
       "perm": false,
       "duration": "12M"
     },
+    "XABLAU-7d-WJ85OXUN": {
+      "active": true,
+      "owner": "LUCAS SILVA ( ? )",
+      "first_use": null,
+      "perm": false,
+      "duration": "7d"
+    },
     "XABLAU-35d-LK1Q567U": {
       "active": true,
       "owner": "WEVE ( ST )",
@@ -84,12 +91,12 @@
       "perm": false,
       "duration": "7d"
     },
-    "XABLAU-7d-WJ85OXUN": {
-      "duration": "7d",
-      "perm": false,
+    "sparkingffz-2025-CLONE-G92SKZC7": {
       "active": true,
-      "first_use": null,
-      "owner": "LUCAS SILVA ( ? )"
+      "owner": "DONO SPARK",
+      "first_use": 1763967751407,
+      "perm": false,
+      "duration": "12M"
     }
   }
 }
