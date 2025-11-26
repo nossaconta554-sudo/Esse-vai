@@ -105,6 +105,14 @@
       "first_use": null,
       "limit": 1,
       "owner": "E"
+    },
+    "XABLAU-7d-K1JFBBWB": {
+      "duration": "7d",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "limit": 1,
+      "owner": "9"
     }
   }
 }
