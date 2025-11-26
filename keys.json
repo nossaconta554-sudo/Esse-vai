@@ -68,7 +68,8 @@
       "owner": "DONO SPARK",
       "first_use": 1763967751407,
       "perm": false,
-      "duration": "12M"
+      "duration": "12M",
+      "device_limit": 1
     },
     "XABLAU-7d-WQ5BD2YA": {
       "active": true,
