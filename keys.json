@@ -64,12 +64,12 @@
       "duration": "7d"
     },
     "sparkingffz-2025-CLONE-G92SKZC7": {
+      "device_limit": 1,
       "active": true,
       "owner": "DONO SPARK",
       "first_use": 1763967751407,
       "perm": false,
-      "duration": "12M",
-      "device_limit": 1
+      "duration": "12M"
     },
     "XABLAU-7d-WQ5BD2YA": {
       "active": true,
@@ -98,6 +98,13 @@
       "first_use": 1764114020431,
       "perm": false,
       "duration": "7d"
+    },
+    "XABLAU-7d-8OLJDUFA": {
+      "duration": "7d",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "acerola"
     }
   }
 }
