@@ -36,12 +36,12 @@
       "duration": "7d"
     },
     "XABLAU-7d-FH30BNN8": {
-      "limit": 1,
+      "duration": "7d",
       "active": true,
       "owner": "E",
       "first_use": null,
       "perm": false,
-      "duration": "7d"
+      "limit": 1
     },
     "XABLAU-35d-LK1Q567U": {
       "active": true,
@@ -56,6 +56,15 @@
       "first_use": null,
       "perm": false,
       "duration": "7d"
+    },
+    "oi": {
+      "active": true,
+      "first_use": null,
+      "perm": false,
+      "owner": "86",
+      "limit": 1,
+      "duration": "7",
+      "used": 0
     },
     "XABLAU-7d-33H8QXR1": {
       "active": true,
@@ -107,19 +116,19 @@
       "duration": "7d"
     },
     "XABLAU-7d-K1JFBBWB": {
-      "limit": 1,
+      "duration": "7d",
       "active": true,
       "owner": "9",
       "first_use": null,
       "perm": false,
-      "duration": "7d"
+      "limit": 1
     },
-    "oi": {
-      "duration": "7",
+    "teste": {
+      "duration": "1d",
       "perm": false,
       "active": true,
       "first_use": null,
-      "owner": "86",
+      "owner": "TESTEVUU",
       "limit": 1,
       "used": 0
     }
