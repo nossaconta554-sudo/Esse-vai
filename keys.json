@@ -113,11 +113,11 @@
       "duration": "1d"
     },
     "XABLAU-10d-36KHUTKG": {
-      "duration": "10d",
-      "perm": false,
       "active": true,
-      "first_use": null,
-      "owner": "viado"
+      "owner": "viado",
+      "first_use": 1764199934689,
+      "perm": false,
+      "duration": "10d"
     }
   }
 }
