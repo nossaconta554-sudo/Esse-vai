@@ -43,12 +43,12 @@
       "duration": "7d"
     },
     "GRATIS-WJ63XINZL": {
-      "device_limit": 1,
+      "duration": "1h",
       "active": true,
       "owner": "KEY GRÁTIS",
       "first_use": null,
-      "perm": false,
-      "duration": "1h"
+      "device_limit": 1,
+      "perm": false
     },
     "XABLAU-35d-LK1Q567U": {
       "active": true,
@@ -63,6 +63,13 @@
       "first_use": null,
       "perm": false,
       "duration": "7d"
+    },
+    "XABLAU-2d-XNLIN6YS": {
+      "active": true,
+      "owner": "viadin",
+      "first_use": null,
+      "perm": false,
+      "duration": "2d"
     },
     "XABLAU-7d-33H8QXR1": {
       "active": true,
@@ -127,12 +134,13 @@
       "perm": false,
       "duration": "1d"
     },
-    "XABLAU-2d-XNLIN6YS": {
-      "duration": "2d",
+    "XABLAU-KS5QJA68NS": {
+      "duration": "1d",
       "perm": false,
       "active": true,
       "first_use": null,
-      "owner": "viadin"
+      "owner": "LV CHATO ( SITE )",
+      "device_limit": 1
     }
   }
 }
