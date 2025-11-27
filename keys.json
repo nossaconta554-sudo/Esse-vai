@@ -1,12 +1,5 @@
 {
   "keys": {
-    "XABLAU-10d-36KHUTKG": {
-      "active": true,
-      "owner": "viado",
-      "first_use": 1764199934689,
-      "perm": false,
-      "duration": "10d"
-    },
     "XABLAU-PERM-UY5IDGBFYN": {
       "active": true,
       "owner": "DONO XABLAU",
@@ -70,6 +63,13 @@
       "perm": false,
       "duration": "7d"
     },
+    "XABLAU-10d-36KHUTKG": {
+      "active": true,
+      "owner": "viado",
+      "first_use": 1764199934689,
+      "perm": false,
+      "duration": "10d"
+    },
     "apela-123-d": {
       "active": true,
       "owner": "apelaxablau",
@@ -118,6 +118,14 @@
       "first_use": 1764189781608,
       "perm": false,
       "duration": "1d"
+    },
+    "GRATIS-WJ63XINZL": {
+      "duration": "1h",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "KEY GRÁTIS",
+      "device_limit": 1
     }
   }
 }
