@@ -146,7 +146,7 @@
       "duration": "2d",
       "perm": false,
       "active": true,
-      "first_use": null,
+      "first_use": 1764212384136,
       "owner": "shd"
     }
   }
