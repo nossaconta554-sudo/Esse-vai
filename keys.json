@@ -118,6 +118,15 @@
       "first_use": 1764199934689,
       "perm": false,
       "duration": "10d"
+    },
+    "t": {
+      "duration": "5d",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "testiuu",
+      "device_limit": 1,
+      "device_ids": []
     }
   }
 }
