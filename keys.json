@@ -1,13 +1,11 @@
 {
   "keys": {
-    "t": {
+    "XABLAU-10d-36KHUTKG": {
       "active": true,
-      "first_use": 1764204031596,
+      "owner": "viado",
+      "first_use": 1764199934689,
       "perm": false,
-      "owner": "testiuu",
-      "device_limit": 1,
-      "duration": "5d",
-      "device_ids": []
+      "duration": "10d"
     },
     "XABLAU-PERM-UY5IDGBFYN": {
       "active": true,
@@ -120,13 +118,6 @@
       "first_use": 1764189781608,
       "perm": false,
       "duration": "1d"
-    },
-    "XABLAU-10d-36KHUTKG": {
-      "active": true,
-      "owner": "viado",
-      "first_use": 1764199934689,
-      "perm": false,
-      "duration": "10d"
     }
   }
 }
