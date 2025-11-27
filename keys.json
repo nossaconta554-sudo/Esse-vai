@@ -42,6 +42,14 @@
       "perm": false,
       "duration": "7d"
     },
+    "GRATIS-WJ63XINZL": {
+      "device_limit": 1,
+      "active": true,
+      "owner": "KEY GRÁTIS",
+      "first_use": null,
+      "perm": false,
+      "duration": "1h"
+    },
     "XABLAU-35d-LK1Q567U": {
       "active": true,
       "owner": "WEVE ( ST )",
@@ -119,13 +127,12 @@
       "perm": false,
       "duration": "1d"
     },
-    "GRATIS-WJ63XINZL": {
-      "duration": "1h",
+    "XABLAU-2d-XNLIN6YS": {
+      "duration": "2d",
       "perm": false,
       "active": true,
       "first_use": null,
-      "owner": "KEY GRÁTIS",
-      "device_limit": 1
+      "owner": "viadin"
     }
   }
 }
