@@ -1,12 +1,12 @@
 {
   "keys": {
     "XABLAU-1s-2PHFUYSG5IK": {
-      "perm": false,
+      "duration": "1s",
       "active": true,
       "owner": "d",
       "first_use": null,
-      "device_limit": 1,
-      "duration": "1s"
+      "perm": false,
+      "device_limit": 1
     },
     "XABLAU-1d-LJK2I865": {
       "active": true,
@@ -65,12 +65,12 @@
       "duration": "7d"
     },
     "KEY-5DAYS-BUGC3TTBU1": {
-      "device_limit": 1,
+      "duration": "5d",
       "active": true,
       "owner": "g",
       "first_use": null,
-      "perm": false,
-      "duration": "5d"
+      "device_limit": 1,
+      "perm": false
     },
     "XABLAU-1d-DW7NK4YC": {
       "active": true,
@@ -87,12 +87,12 @@
       "duration": "1d"
     },
     "GRATIS-WJ63XINZL": {
-      "duration": "1h",
+      "device_limit": 1,
       "active": true,
       "owner": "KEY GRÁTIS",
       "first_use": 1764251714623,
       "perm": false,
-      "device_limit": 1
+      "duration": "1h"
     },
     "heads-89125#-key": {
       "active": true,
@@ -157,21 +157,13 @@
       "perm": false,
       "duration": "35d"
     },
-    "KEY-7DAYS-JT58WM7W": {
-      "duration": "7d",
-      "active": true,
-      "owner": "ELIAS ( ST )",
-      "first_use": null,
-      "perm": false,
-      "device_limit": 1
-    },
     "KEY-1D-GN2VRTQW6RCI": {
-      "duration": "1D",
+      "perm": false,
       "active": true,
       "owner": "d",
       "first_use": null,
       "device_limit": 1,
-      "perm": false
+      "duration": "1D"
     },
     "XABLAU-1d-TEE8B9P3": {
       "active": true,
@@ -181,12 +173,12 @@
       "duration": "1d"
     },
     "XABLAU-KS5QJA68NS": {
-      "duration": "1d",
+      "perm": false,
       "active": true,
       "owner": "LV CHATO ( SITE )",
       "first_use": null,
       "device_limit": 1,
-      "perm": false
+      "duration": "1d"
     },
     "XABLAU-7d-QHR3J2JS": {
       "active": true,
