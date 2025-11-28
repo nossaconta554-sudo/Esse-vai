@@ -1,12 +1,12 @@
 {
   "keys": {
     "XABLAU-1s-2PHFUYSG5IK": {
-      "device_limit": 1,
+      "duration": "1s",
       "active": true,
       "owner": "d",
       "first_use": null,
-      "perm": false,
-      "duration": "1s"
+      "device_limit": 1,
+      "perm": false
     },
     "XABLAU-1d-LJK2I865": {
       "active": true,
@@ -64,14 +64,6 @@
       "perm": false,
       "duration": "7d"
     },
-    "KEY-5DAYS-BUGC3TTBU1": {
-      "perm": false,
-      "active": true,
-      "owner": "g",
-      "first_use": null,
-      "device_limit": 1,
-      "duration": "5d"
-    },
     "XABLAU-1d-DW7NK4YC": {
       "active": true,
       "owner": "CLIENTE MOREIRA",
@@ -87,12 +79,12 @@
       "duration": "1d"
     },
     "GRATIS-WJ63XINZL": {
-      "duration": "1h",
+      "perm": false,
       "active": true,
       "owner": "KEY GRÁTIS",
       "first_use": 1764251714623,
       "device_limit": 1,
-      "perm": false
+      "duration": "1h"
     },
     "heads-89125#-key": {
       "active": true,
@@ -165,12 +157,12 @@
       "duration": "1d"
     },
     "XABLAU-KS5QJA68NS": {
-      "duration": "1d",
+      "device_limit": 1,
       "active": true,
       "owner": "LV CHATO ( SITE )",
       "first_use": null,
       "perm": false,
-      "device_limit": 1
+      "duration": "1d"
     },
     "XABLAU-7d-QHR3J2JS": {
       "active": true,
