@@ -71,12 +71,12 @@
       "duration": "1d"
     },
     "GRATIS-WJ63XINZL": {
-      "perm": false,
+      "duration": "1h",
       "active": true,
       "owner": "KEY GRÁTIS",
       "first_use": 1764251714623,
-      "device_limit": 1,
-      "duration": "1h"
+      "perm": false,
+      "device_limit": 1
     },
     "heads-89125#-key": {
       "active": true,
@@ -142,12 +142,12 @@
       "duration": "35d"
     },
     "hhh": {
-      "device_limit": 1,
+      "duration": "20s",
       "active": true,
       "owner": "b",
       "first_use": 1764311722307,
-      "perm": false,
-      "duration": "20s"
+      "device_limit": 1,
+      "perm": false
     },
     "XABLAU-1d-TEE8B9P3": {
       "active": true,
@@ -157,12 +157,12 @@
       "duration": "1d"
     },
     "XABLAU-KS5QJA68NS": {
-      "device_limit": 1,
+      "duration": "1d",
       "active": true,
       "owner": "LV CHATO ( SITE )",
       "first_use": null,
-      "perm": false,
-      "duration": "1d"
+      "device_limit": 1,
+      "perm": false
     },
     "XABLAU-7d-QHR3J2JS": {
       "active": true,
@@ -184,6 +184,14 @@
       "first_use": 1764283771867,
       "perm": false,
       "duration": "7d"
+    },
+    "KEY-7DAYS-JT58WM7W": {
+      "duration": "7d",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "ELIAS ( ST )",
+      "device_limit": 1
     }
   }
 }
