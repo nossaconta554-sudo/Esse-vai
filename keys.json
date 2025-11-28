@@ -1,19 +1,19 @@
 {
   "keys": {
-    "XABLAU-2d-SE2FZV61": {
+    "XABLAU-7d-QHR3J2JS": {
       "active": true,
-      "owner": "Sem nome",
-      "first_use": 1764338739386,
+      "owner": "gay",
+      "first_use": null,
       "perm": false,
-      "duration": "2d"
+      "duration": "7d"
     },
     "XABLAU-1s-2PHFUYSG5IK": {
-      "duration": "1s",
+      "perm": false,
       "active": true,
       "owner": "d",
       "first_use": null,
       "device_limit": 1,
-      "perm": false
+      "duration": "1s"
     },
     "XABLAU-1d-LJK2I865": {
       "active": true,
@@ -86,12 +86,12 @@
       "duration": "1d"
     },
     "GRATIS-WJ63XINZL": {
-      "perm": false,
+      "duration": "1h",
       "active": true,
       "owner": "KEY GRÁTIS",
       "first_use": 1764251714623,
-      "device_limit": 1,
-      "duration": "1h"
+      "perm": false,
+      "device_limit": 1
     },
     "heads-89125#-key": {
       "active": true,
@@ -108,12 +108,12 @@
       "duration": "1d"
     },
     "LVZADA": {
-      "duration": "12M",
+      "device_limit": 3,
       "active": true,
       "owner": "lvdapaz",
       "first_use": null,
       "perm": false,
-      "device_limit": 3
+      "duration": "12M"
     },
     "XABLAU-7d-D1V2XHP3": {
       "active": true,
@@ -123,12 +123,12 @@
       "duration": "7d"
     },
     "sparkingffz22": {
-      "perm": false,
+      "duration": "perm",
       "active": true,
       "owner": "spark",
       "first_use": 1764323709323,
-      "device_limit": 1,
-      "duration": "perm"
+      "perm": false,
+      "device_limit": 1
     },
     "XABLAU-7d-G2V5PPWZ": {
       "active": true,
@@ -179,6 +179,13 @@
       "perm": false,
       "duration": "1d"
     },
+    "XABLAU-2d-SE2FZV61": {
+      "active": true,
+      "owner": "Sem nome",
+      "first_use": 1764338739386,
+      "perm": false,
+      "duration": "2d"
+    },
     "XABLAU-7d-J0K3W183": {
       "active": true,
       "owner": "apela",
@@ -187,12 +194,12 @@
       "duration": "7d"
     },
     "XABLAU-KS5QJA68NS": {
-      "device_limit": 1,
+      "duration": "1d",
       "active": true,
       "owner": "LV CHATO ( SITE )",
       "first_use": null,
-      "perm": false,
-      "duration": "1d"
+      "device_limit": 1,
+      "perm": false
     },
     "XABLAU-2d-XNLIN6YS": {
       "active": true,
@@ -201,12 +208,12 @@
       "perm": false,
       "duration": "2d"
     },
-    "XABLAU-7d-QHR3J2JS": {
-      "active": true,
-      "owner": "gay",
-      "first_use": null,
+    "https-#%{}3654-KEY": {
+      "duration": "2d",
       "perm": false,
-      "duration": "7d"
+      "active": true,
+      "first_use": null,
+      "owner": "iOS"
     }
   }
 }
