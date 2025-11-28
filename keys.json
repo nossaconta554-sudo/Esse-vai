@@ -1,12 +1,12 @@
 {
   "keys": {
     "XABLAU-1s-2PHFUYSG5IK": {
-      "duration": "1s",
+      "device_limit": 1,
       "active": true,
       "owner": "d",
       "first_use": null,
       "perm": false,
-      "device_limit": 1
+      "duration": "1s"
     },
     "XABLAU-1d-LJK2I865": {
       "active": true,
@@ -65,12 +65,12 @@
       "duration": "7d"
     },
     "KEY-5DAYS-BUGC3TTBU1": {
-      "duration": "5d",
+      "perm": false,
       "active": true,
       "owner": "g",
       "first_use": null,
       "device_limit": 1,
-      "perm": false
+      "duration": "5d"
     },
     "XABLAU-1d-DW7NK4YC": {
       "active": true,
@@ -87,12 +87,12 @@
       "duration": "1d"
     },
     "GRATIS-WJ63XINZL": {
-      "device_limit": 1,
+      "duration": "1h",
       "active": true,
       "owner": "KEY GRÁTIS",
       "first_use": 1764251714623,
-      "perm": false,
-      "duration": "1h"
+      "device_limit": 1,
+      "perm": false
     },
     "heads-89125#-key": {
       "active": true,
@@ -157,14 +157,6 @@
       "perm": false,
       "duration": "35d"
     },
-    "KEY-1D-GN2VRTQW6RCI": {
-      "perm": false,
-      "active": true,
-      "owner": "d",
-      "first_use": null,
-      "device_limit": 1,
-      "duration": "1D"
-    },
     "XABLAU-1d-TEE8B9P3": {
       "active": true,
       "owner": "apela",
@@ -173,12 +165,12 @@
       "duration": "1d"
     },
     "XABLAU-KS5QJA68NS": {
-      "perm": false,
+      "duration": "1d",
       "active": true,
       "owner": "LV CHATO ( SITE )",
       "first_use": null,
-      "device_limit": 1,
-      "duration": "1d"
+      "perm": false,
+      "device_limit": 1
     },
     "XABLAU-7d-QHR3J2JS": {
       "active": true,
