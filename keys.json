@@ -71,12 +71,12 @@
       "duration": "1d"
     },
     "GRATIS-WJ63XINZL": {
-      "device_limit": 1,
+      "duration": "1h",
       "active": true,
       "owner": "KEY GRÁTIS",
       "first_use": 1764251714623,
-      "perm": false,
-      "duration": "1h"
+      "device_limit": 1,
+      "perm": false
     },
     "heads-89125#-key": {
       "active": true,
@@ -149,12 +149,12 @@
       "duration": "1d"
     },
     "XABLAU-KS5QJA68NS": {
-      "perm": false,
+      "duration": "1d",
       "active": true,
       "owner": "LV CHATO ( SITE )",
       "first_use": null,
-      "device_limit": 1,
-      "duration": "1d"
+      "perm": false,
+      "device_limit": 1
     },
     "XABLAU-7d-QHR3J2JS": {
       "active": true,
@@ -176,6 +176,14 @@
       "first_use": 1764283771867,
       "perm": false,
       "duration": "7d"
+    },
+    "hhh": {
+      "duration": "20s",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "b",
+      "device_limit": 1
     }
   }
 }
