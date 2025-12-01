@@ -1,12 +1,12 @@
 {
   "keys": {
     "teste": {
-      "duration": "10s",
-      "perm": false,
+      "device_limit": 1,
       "active": true,
-      "first_use": null,
       "owner": "No name",
-      "device_limit": 1
+      "first_use": 1764579045145,
+      "perm": false,
+      "duration": "10s"
     }
   }
 }
