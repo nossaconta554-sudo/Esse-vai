@@ -293,7 +293,7 @@
       "duration": "12mo",
       "perm": false,
       "active": true,
-      "first_use": null,
+      "first_use": 1764607696277,
       "owner": "DONO",
       "device_limit": 1
     }
