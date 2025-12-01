@@ -85,14 +85,6 @@
       "perm": false,
       "duration": "7d"
     },
-    "XABLAU-3s-FQUHSIZA": {
-      "duration": "3s",
-      "active": true,
-      "owner": "test",
-      "first_use": 1764384069627,
-      "device_limit": 1,
-      "perm": false
-    },
     "XABLAU-1d-LJK2I865": {
       "active": true,
       "owner": "grátis",
