@@ -1,7 +1,7 @@
 {
   "keys": {
     "XABLAU-4d-H217UE4A": {
-      "active": true,
+      "active": false,
       "owner": "Hugo",
       "first_use": null,
       "perm": false,
@@ -9,21 +9,21 @@
     },
     "XABLAU-KS5QJA68NS": {
       "duration": "1d",
-      "active": true,
+      "active": false,
       "owner": "LV CHATO ( SITE )",
       "first_use": null,
       "device_limit": 1,
       "perm": false
     },
     "XABLAU-2d-XNLIN6YS": {
-      "active": true,
+      "active": false,
       "owner": "viadin",
       "first_use": null,
       "perm": false,
       "duration": "2d"
     },
     "XABLAU-7d-HFV3KI7O": {
-      "active": true,
+      "active": false,
       "owner": "CLIENTE 66YX ( ST )",
       "first_use": null,
       "perm": false,
@@ -31,7 +31,7 @@
     },
     "KEY-WY64ADQ6QYE7": {
       "perm": false,
-      "active": true,
+      "active": false,
       "owner": "GRÁTIS",
       "first_use": 1764358308288,
       "device_limit": 1,
@@ -45,56 +45,56 @@
       "duration": "5d"
     },
     "XABLAU--2KBNBK94": {
-      "active": true,
+      "active": false,
       "owner": "Sem nome",
       "first_use": 1764566953456,
       "perm": false,
       "duration": ""
     },
     "XABLAU-7d-D1V2XHP3": {
-      "active": true,
+      "active": false,
       "owner": "apela",
       "first_use": 1764124424504,
       "perm": false,
       "duration": "7d"
     },
     "XABLAU-1d-TEE8B9P3": {
-      "active": true,
+      "active": false,
       "owner": "apela",
       "first_use": 1764280394173,
       "perm": false,
       "duration": "1d"
     },
     "XABLAU-PERM-UY5IDGBFYN": {
-      "active": true,
+      "active": false,
       "owner": "DONO XABLAU",
       "first_use": 1763991241690,
       "perm": false,
       "duration": "12M"
     },
     "XABLAU-1d-Z8KNUBML": {
-      "active": true,
+      "active": false,
       "owner": "apela",
       "first_use": 1764220055077,
       "perm": false,
       "duration": "1d"
     },
     "XABLAU-10d-36KHUTKG": {
-      "active": true,
+      "active": false,
       "owner": "viado",
       "first_use": 1764199934689,
       "perm": false,
       "duration": "10d"
     },
     "XABLAU-7d-G2V5PPWZ": {
-      "active": true,
+      "active": false,
       "owner": "MAYKE ( ST )",
       "first_use": null,
       "perm": false,
       "duration": "7d"
     },
     "XABLAU-1d-LJK2I865": {
-      "active": true,
+      "active": false,
       "owner": "grátis",
       "first_use": 1764114068463,
       "perm": false,
@@ -102,49 +102,49 @@
     },
     "ID6UWNX2UWN5WH": {
       "duration": "7d",
-      "active": true,
+      "active": false,
       "owner": "RAIO",
       "first_use": null,
       "device_limit": 1,
       "perm": false
     },
     "hjsjs-##%-key": {
-      "active": true,
+      "active": false,
       "owner": "Hugo",
       "first_use": null,
       "perm": false,
       "duration": "3d"
     },
     "hdhsg-#62582-%-": {
-      "active": true,
+      "active": false,
       "owner": "higor",
       "first_use": 1764482763291,
       "perm": false,
       "duration": "4d"
     },
     "XABLAU-1d-DW7NK4YC": {
-      "active": true,
+      "active": false,
       "owner": "CLIENTE MOREIRA",
       "first_use": 1763971234584,
       "perm": false,
       "duration": "1d"
     },
     "hjsg-##23213-key": {
-      "active": true,
+      "active": false,
       "owner": "bnzin",
       "first_use": 1764189781608,
       "perm": false,
       "duration": "1d"
     },
     "https-#%{}3654-KEY": {
-      "active": true,
+      "active": false,
       "owner": "iOS",
       "first_use": null,
       "perm": false,
       "duration": "2d"
     },
     "XABLAU-7d-J0K3W183": {
-      "active": true,
+      "active": false,
       "owner": "apela",
       "first_use": 1764283771867,
       "perm": false,
@@ -159,21 +159,21 @@
       "duration": "1s"
     },
     "XABLAU-7d-XQEH6ED2": {
-      "active": true,
+      "active": false,
       "owner": "nalber",
       "first_use": 1764292087761,
       "perm": false,
       "duration": "7d"
     },
     "XABLAU-7d-33H8QXR1": {
-      "active": true,
+      "active": false,
       "owner": "91 992949977 ( ST )",
       "first_use": null,
       "perm": false,
       "duration": "7d"
     },
     "#%#-15252-key": {
-      "active": true,
+      "active": false,
       "owner": "ioss",
       "first_use": 1764347675341,
       "perm": false,
@@ -181,21 +181,21 @@
     },
     "KEY-SQ5T17HW5YWG61G": {
       "perm": false,
-      "active": true,
+      "active": false,
       "owner": "ANGELA DIAS GRTS ( SC )",
       "first_use": 1764480645988,
       "device_limit": 1,
       "duration": "1d"
     },
     "XABLAU-7d-8OLJDUFA": {
-      "active": true,
+      "active": false,
       "owner": "acerola",
       "first_use": 1764166509542,
       "perm": false,
       "duration": "7d"
     },
     "heads-89125#-key": {
-      "active": true,
+      "active": false,
       "owner": "Kayky",
       "first_use": 1764114781838,
       "perm": false,
@@ -211,7 +211,7 @@
     },
     "LVZADA": {
       "device_limit": 3,
-      "active": true,
+      "active": false,
       "owner": "lvdapaz",
       "first_use": null,
       "perm": false,
@@ -219,14 +219,14 @@
     },
     "essevai": {
       "device_limit": 1,
-      "active": true,
+      "active": false,
       "owner": "No name",
       "first_use": 1764576896494,
       "perm": false,
       "duration": "6s"
     },
     "XABLAU-7d-WJ85OXUN": {
-      "active": true,
+      "active": false,
       "owner": "LUCAS SILVA ( ? )",
       "first_use": 1764126409493,
       "perm": false,
@@ -234,42 +234,42 @@
     },
     "GRATIS-WJ63XINZL": {
       "duration": "1h",
-      "active": true,
+      "active": false,
       "owner": "KEY GRÁTIS",
       "first_use": 1764251714623,
       "perm": false,
       "device_limit": 1
     },
     "hdh-%%#}1-key": {
-      "active": true,
+      "active": false,
       "owner": "Hugo",
       "first_use": 1764457931313,
       "perm": false,
       "duration": "3d"
     },
     "XABLAU-7d-WQ5BD2YA": {
-      "active": true,
+      "active": false,
       "owner": "CLIENTE AYUMI ( SC )",
       "first_use": 1764020827075,
       "perm": false,
       "duration": "7d"
     },
     "XABLAU-35d-LK1Q567U": {
-      "active": true,
+      "active": false,
       "owner": "WEVE ( ST )",
       "first_use": null,
       "perm": false,
       "duration": "35d"
     },
     "XABLAU-7d-3UXQEVF2": {
-      "active": true,
+      "active": false,
       "owner": "apelaxablau",
       "first_use": 1764114020431,
       "perm": false,
       "duration": "7d"
     },
     "XABLAU-7d-QHR3J2JS": {
-      "active": true,
+      "active": false,
       "owner": "gay",
       "first_use": null,
       "perm": false,
