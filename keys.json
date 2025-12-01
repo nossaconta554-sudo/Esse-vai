@@ -278,7 +278,7 @@
     "Oi": {
       "duration": "5s",
       "perm": false,
-      "active": false,
+      "active": true,
       "first_use": null,
       "owner": "Teste",
       "device_limit": 1
