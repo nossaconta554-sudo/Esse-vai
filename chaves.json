@@ -8,20 +8,20 @@
       "duration": "4d"
     },
     "XABLAU-KS5QJA68NS": {
-      "perm": false,
+      "duration": "1d",
       "active": true,
       "owner": "LV CHATO ( SITE )",
       "first_use": null,
-      "device_limit": 1,
-      "duration": "1d"
+      "perm": false,
+      "device_limit": 1
     },
     "esse": {
-      "duration": "2s",
-      "perm": false,
+      "device_limit": 1,
       "active": true,
-      "first_use": null,
       "owner": "No name",
-      "device_limit": 1
+      "first_use": 1764577655319,
+      "perm": false,
+      "duration": "2s"
     }
   }
 }
