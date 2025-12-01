@@ -1,20 +1,12 @@
 {
   "keys": {
-    "teste": {
-      "perm": false,
-      "active": true,
-      "owner": "No name",
-      "first_use": 1764579045145,
-      "device_limit": 1,
-      "duration": "10s"
-    },
     "teste dnv": {
-      "device_limit": 1,
+      "duration": "6s",
       "active": true,
       "owner": "No name",
       "first_use": 1764579427387,
-      "perm": false,
-      "duration": "6s"
+      "device_limit": 1,
+      "perm": false
     }
   }
 }
