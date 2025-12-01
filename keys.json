@@ -38,7 +38,7 @@
       "duration": "20m"
     },
     "hsgeg-#%*-key": {
-      "active": true,
+      "active": false,
       "owner": "higor",
       "first_use": null,
       "perm": false,
@@ -152,7 +152,7 @@
     },
     "XABLAU-1s-2PHFUYSG5IK": {
       "perm": false,
-      "active": true,
+      "active": false,
       "owner": "d",
       "first_use": null,
       "device_limit": 1,
