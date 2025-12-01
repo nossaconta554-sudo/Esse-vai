@@ -274,14 +274,6 @@
       "first_use": null,
       "perm": false,
       "device_limit": 1
-    },
-    "KEY-1s-NIY4GFWY": {
-      "duration": "1s",
-      "perm": false,
-      "active": true,
-      "first_use": null,
-      "owner": "S",
-      "device_limit": 1
     }
   }
 }
