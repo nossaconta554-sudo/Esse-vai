@@ -7,10 +7,10 @@
       "perm": false,
       "duration": "4d"
     },
-    "XABLAU-7d-QHR3J2JS": {
+    "XABLAU-7d-3UXQEVF2": {
       "active": true,
-      "owner": "gay",
-      "first_use": null,
+      "owner": "apelaxablau",
+      "first_use": 1764114020431,
       "perm": false,
       "duration": "7d"
     },
@@ -29,12 +29,12 @@
       "duration": "7d"
     },
     "KEY-WY64ADQ6QYE7": {
-      "perm": false,
+      "duration": "20m",
       "active": true,
       "owner": "GRÁTIS",
       "first_use": 1764358308288,
-      "device_limit": 1,
-      "duration": "20m"
+      "perm": false,
+      "device_limit": 1
     },
     "hsgeg-#%*-key": {
       "active": true,
@@ -100,12 +100,12 @@
       "duration": "1d"
     },
     "ID6UWNX2UWN5WH": {
-      "duration": "7d",
+      "perm": false,
       "active": true,
       "owner": "RAIO",
       "first_use": null,
       "device_limit": 1,
-      "perm": false
+      "duration": "7d"
     },
     "hjsjs-##%-key": {
       "active": true,
@@ -150,12 +150,12 @@
       "duration": "7d"
     },
     "XABLAU-1s-2PHFUYSG5IK": {
-      "perm": false,
+      "duration": "1s",
       "active": true,
       "owner": "d",
       "first_use": null,
-      "device_limit": 1,
-      "duration": "1s"
+      "perm": false,
+      "device_limit": 1
     },
     "XABLAU-7d-XQEH6ED2": {
       "active": true,
@@ -179,12 +179,12 @@
       "duration": "2d"
     },
     "KEY-SQ5T17HW5YWG61G": {
-      "perm": false,
+      "duration": "1d",
       "active": true,
       "owner": "ANGELA DIAS GRTS ( SC )",
       "first_use": 1764480645988,
-      "device_limit": 1,
-      "duration": "1d"
+      "perm": false,
+      "device_limit": 1
     },
     "XABLAU-7d-8OLJDUFA": {
       "active": true,
@@ -201,28 +201,28 @@
       "duration": "10d"
     },
     "NKW7HA5BXY6HW": {
-      "duration": "1m",
+      "device_limit": 1,
       "active": true,
       "owner": "RAIO",
       "first_use": null,
       "perm": false,
-      "device_limit": 1
+      "duration": "1m"
     },
     "LVZADA": {
-      "device_limit": 3,
+      "duration": "12M",
       "active": true,
       "owner": "lvdapaz",
       "first_use": null,
-      "perm": false,
-      "duration": "12M"
+      "device_limit": 3,
+      "perm": false
     },
     "essevai": {
-      "device_limit": 1,
+      "duration": "6s",
       "active": true,
       "owner": "No name",
       "first_use": 1764576896494,
-      "perm": false,
-      "duration": "6s"
+      "device_limit": 1,
+      "perm": false
     },
     "XABLAU-7d-WJ85OXUN": {
       "active": true,
@@ -232,12 +232,12 @@
       "duration": "7d"
     },
     "GRATIS-WJ63XINZL": {
-      "duration": "1h",
+      "device_limit": 1,
       "active": true,
       "owner": "KEY GRÁTIS",
       "first_use": 1764251714623,
       "perm": false,
-      "device_limit": 1
+      "duration": "1h"
     },
     "hdh-%%#}1-key": {
       "active": true,
@@ -260,20 +260,27 @@
       "perm": false,
       "duration": "35d"
     },
+    "XABLAU-7d-QHR3J2JS": {
+      "active": true,
+      "owner": "gay",
+      "first_use": null,
+      "perm": false,
+      "duration": "7d"
+    },
     "XABLAU-KS5QJA68NS": {
-      "duration": "1d",
+      "perm": false,
       "active": true,
       "owner": "LV CHATO ( SITE )",
       "first_use": null,
       "device_limit": 1,
-      "perm": false
+      "duration": "1d"
     },
-    "XABLAU-7d-3UXQEVF2": {
-      "active": true,
-      "owner": "apelaxablau",
-      "first_use": 1764114020431,
+    "hegsk-#%{}-key": {
+      "duration": "2d",
       "perm": false,
-      "duration": "7d"
+      "active": true,
+      "first_use": null,
+      "owner": "izza"
     }
   }
 }
