@@ -282,14 +282,6 @@
       "first_use": null,
       "owner": "No name",
       "device_limit": 1
-    },
-    "KEY-5s-2NXUEXMI": {
-      "duration": "5s",
-      "perm": false,
-      "active": true,
-      "first_use": null,
-      "owner": "TESTEEEE",
-      "device_limit": 1
     }
   }
 }
