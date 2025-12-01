@@ -298,6 +298,14 @@
       "first_use": null,
       "owner": "Teste",
       "device_limit": 1
+    },
+    "KEY-0s-KYM3F7N3": {
+      "duration": "",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "No name",
+      "device_limit": 1
     }
   }
 }
