@@ -275,14 +275,6 @@
       "perm": false,
       "device_limit": 1
     },
-    "KEY-5s-9I4I8QGP": {
-      "duration": "5s",
-      "perm": false,
-      "active": true,
-      "first_use": null,
-      "owner": "Teste",
-      "device_limit": 1
-    },
     "KEY-5s-V9KFGL6H": {
       "duration": "5s",
       "perm": false,
