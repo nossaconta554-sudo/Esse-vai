@@ -1,12 +1,3 @@
 {
-  "keys": {
-    "XABLAU-KS5QJA68NS": {
-      "duration": "1d",
-      "active": true,
-      "owner": "LV CHATO ( SITE )",
-      "first_use": null,
-      "device_limit": 1,
-      "perm": false
-    }
-  }
+  "keys": {}
 }
