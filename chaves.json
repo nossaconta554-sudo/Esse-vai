@@ -1,19 +1,12 @@
 {
   "keys": {
-    "XABLAU-4d-H217UE4A": {
-      "active": true,
-      "owner": "Hugo",
-      "first_use": null,
-      "perm": false,
-      "duration": "4d"
-    },
     "XABLAU-KS5QJA68NS": {
-      "device_limit": 1,
+      "duration": "1d",
       "active": true,
       "owner": "LV CHATO ( SITE )",
       "first_use": null,
-      "perm": false,
-      "duration": "1d"
+      "device_limit": 1,
+      "perm": false
     }
   }
 }
