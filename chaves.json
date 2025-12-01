@@ -1,3 +1,12 @@
 {
-  "keys": {}
+  "keys": {
+    "KEY-3d-IORFZC5O": {
+      "duration": "3d",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "GUSMÃO | SC",
+      "device_limit": 1
+    }
+  }
 }
