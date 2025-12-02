@@ -352,7 +352,7 @@
     "kkk": {
       "duration": "1mo",
       "perm": false,
-      "active": false,
+      "active": true,
       "first_use": null,
       "owner": "LOKO",
       "device_limit": 1
