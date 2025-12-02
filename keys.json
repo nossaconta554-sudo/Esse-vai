@@ -348,14 +348,6 @@
       "first_use": null,
       "perm": false,
       "duration": "7d"
-    },
-    "kkk": {
-      "duration": "1mo",
-      "perm": false,
-      "active": false,
-      "first_use": null,
-      "owner": "LOKO",
-      "device_limit": 1
     }
   }
 }
