@@ -17,7 +17,7 @@
     },
     "kkk": {
       "device_limit": 1,
-      "active": true,
+      "active": false,
       "owner": "LOKO",
       "first_use": 1764654714084,
       "perm": false,
