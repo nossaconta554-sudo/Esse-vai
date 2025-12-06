@@ -424,7 +424,7 @@
       "duration": "20s",
       "perm": false,
       "active": true,
-      "first_use": null,
+      "first_use": 1764984090786,
       "owner": "SPARKKK",
       "device_limit": 1
     }
