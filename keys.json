@@ -424,7 +424,7 @@
       "active": true,
       "first_use": null,
       "owner": "sh",
-      "device_limit": 1
+      "device_limit": 10000
     }
   }
 }
