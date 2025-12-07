@@ -355,8 +355,8 @@
       "active": true,
       "owner": "apela",
       "first_use": ,
-      "perm": false,
-      "duration": "7d"
+      "perm": true,
+      "duration": "7mo"
     },
     "KEY-7d-5JAXAEPJ": {
       "device_limit": 1,
