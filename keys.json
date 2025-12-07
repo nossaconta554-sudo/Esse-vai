@@ -412,8 +412,8 @@
     },
     "snowcrackkj": {
       "duration": "70d",
-      "perm": false,
-      "active": false,
+      "perm": true,
+      "active": true,
       "first_use": null,
       "owner": "macro crackers",
       "device_limit": 10000
