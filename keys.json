@@ -413,8 +413,8 @@
     "snowcrackkj": {
       "duration": "70d",
       "perm": false,
-      "active": true,
-      "first_use": ,
+      "active": false,
+      "first_use": null,
       "owner": "macro crackers",
       "device_limit": 10000
     },
@@ -424,7 +424,7 @@
       "active": true,
       "first_use": null,
       "owner": "sh",
-      "device_limit": 10000
+      "device_limit": 1
     }
   }
 }
