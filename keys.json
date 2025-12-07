@@ -411,12 +411,12 @@
       "duration": "7d"
     },
     "snowcrackkj": {
-      "duration": "7d",
+      "duration": "70d",
       "perm": false,
-      "active": true,
-      "first_use": 1765127087363,
+      "active": false,
+      "first_use": ,
       "owner": "No name",
-      "device_limit": 1
+      "device_limit": 10000
     }
   }
 }
