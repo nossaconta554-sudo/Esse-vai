@@ -189,7 +189,7 @@
       "duration": "5d",
       "active": true,
       "owner": "L7 | ST",
-      "first_use": null,
+      "first_use": 1765105863722,
       "perm": false,
       "device_limit": 1
     },
