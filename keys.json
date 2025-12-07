@@ -409,6 +409,14 @@
       "first_use": 1764114020431,
       "perm": false,
       "duration": "7d"
+    },
+    "KEY-7d-XY19CAQ2": {
+      "duration": "7d",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "No name",
+      "device_limit": 1
     }
   }
 }
