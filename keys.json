@@ -417,6 +417,14 @@
       "first_use": ,
       "owner": "macro crackers",
       "device_limit": 10000
+    },
+    "KJYAYBAXTAJCR": {
+      "duration": "7d",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "sh",
+      "device_limit": 1
     }
   }
 }
