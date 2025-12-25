@@ -7,11 +7,11 @@
       "perm": false,
       "duration": "2d"
     },
-    "KJWBDODYBQUSHGS": {
+    "": {
       "duration": "7d",
       "active": true,
       "owner": "99524",
-      "first_use": 1764813162741,
+      "first_use": ,
       "perm": false,
       "device_limit": 1
     },
